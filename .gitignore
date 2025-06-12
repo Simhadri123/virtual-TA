@@ -1,0 +1,9 @@
+# Ignore directories
+**/__pycache__/
+venv/
+.venv/
+
+# Ignore files
+.env
+*.pyc
+.DS_Store

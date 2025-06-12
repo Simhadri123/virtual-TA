@@ -1,0 +1,11 @@
+# Ignore everything in data/ except knowledge_base.db
+data/*
+!data/knowledge_base.db
+
+# Other ignores
+__pycache__/
+venv/
+.venv/
+.env
+*.pyc
+tests/
