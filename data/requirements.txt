@@ -1,0 +1,10 @@
+requests
+playwright
+markdownify
+beautifulsoup4
+html2text
+tqdm
+aiohttp
+python-dotenv
+markdown
+argparse
